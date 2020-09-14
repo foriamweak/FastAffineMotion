@@ -7,7 +7,7 @@ Link: https://ieeexplore.ieee.org/abstract/document/8887438
 
 # Revision history
 2020-06-01: First uploaded the entire solution for the proposed method
-
+See the macro "FAME_W_SKIP" and "FAME_W_UNIDIRECTION" in the source codes, particularly, EncCu.cpp and InterSearch.cpp files.
 
 # Proposed Method for fast affine motion (As in the paper)
 Entire solution for the proposed method written in C++ under VS2017: [ ](proposed_method)
